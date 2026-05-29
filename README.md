@@ -38,7 +38,7 @@ Yangi o'quv bahosi yaratilayotganda, agar baho ma'lumotlari ma'lumotlar bazasida
 Ushbu ma'lumot mavjudligi haqida ogohlantiradi va "false" qiymat qaytaradi.
 
 ### Run Code
-![Dasturni ishga tushirish](/student%20grade%20system%20333/guruh/rasmlar/rasm%201.jpg)
+![Dasturni ishga tushirish](/student%20grade%20system%20333/guruh/gifs/one-run-code.gif)
 
 ### 1.2 Agar ism va baho ma'lumotlari ma'lumotlar bazasida mavjud bo'lmasa
 
