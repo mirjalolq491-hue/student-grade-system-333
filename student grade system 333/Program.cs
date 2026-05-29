@@ -75,7 +75,7 @@ namespace StudentGradeSystem
             PrintMenuItem("7", "Talaba qidirish");
             Console.ForegroundColor = ConsoleColor.Red;
             PrintMenuItem("0", "Exit");
-            Console.ResetColor();
+            Console.ResetColor();   
 
             Console.ForegroundColor = ConsoleColor.Cyan;
             ShowLine('=', 42);
